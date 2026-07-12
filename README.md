@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
+| [0704-binary-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
