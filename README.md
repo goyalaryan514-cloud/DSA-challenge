@@ -13,6 +13,7 @@
 | ------- |
 | [0018-4sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
@@ -46,5 +47,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
