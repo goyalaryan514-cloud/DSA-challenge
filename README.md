@@ -7,6 +7,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -26,6 +27,7 @@
 | [0018-4sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -53,4 +55,8 @@
 | [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
