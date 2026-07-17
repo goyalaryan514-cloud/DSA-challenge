@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@
 | [0018-4sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -69,4 +72,12 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
