@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +94,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
