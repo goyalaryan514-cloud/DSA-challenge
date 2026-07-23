@@ -4,8 +4,7 @@ public:
         int n=s.length();
         string result = "";
         int level=0;
-        for(int i=0;i<n;i++){
-            char ch=s[i];
+        for(char ch:s){
             if(ch=='('){
                 if(level>0){
                     result+=ch;
