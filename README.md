@@ -44,6 +44,7 @@
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
