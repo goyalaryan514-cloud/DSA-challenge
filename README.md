@@ -55,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -144,4 +147,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
