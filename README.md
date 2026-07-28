@@ -40,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -129,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0014-longest-common-prefix) |
