@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
@@ -106,6 +108,7 @@
 | [0013-roman-to-integer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
@@ -180,4 +183,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
