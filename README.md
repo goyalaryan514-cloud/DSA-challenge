@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -161,6 +162,7 @@
 | [0013-roman-to-integer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
@@ -208,4 +210,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
