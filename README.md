@@ -31,6 +31,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -217,4 +218,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
