@@ -34,6 +34,7 @@
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
 ## String
@@ -173,6 +175,7 @@
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
@@ -226,6 +229,7 @@
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
