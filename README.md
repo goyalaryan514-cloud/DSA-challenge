@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
@@ -232,6 +233,7 @@
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0216-combination-sum-iii) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
