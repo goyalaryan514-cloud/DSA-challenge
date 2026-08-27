@@ -38,6 +38,7 @@
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -270,4 +272,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
