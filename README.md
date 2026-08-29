@@ -39,6 +39,7 @@
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -172,6 +175,7 @@
 | [0037-sudoku-solver](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
 ## String
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
