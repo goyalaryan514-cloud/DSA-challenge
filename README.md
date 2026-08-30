@@ -42,6 +42,7 @@
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0162-find-peak-element) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
