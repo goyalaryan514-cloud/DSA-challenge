@@ -103,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -317,6 +318,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
