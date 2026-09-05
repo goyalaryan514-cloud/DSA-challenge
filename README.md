@@ -34,6 +34,7 @@
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
@@ -165,6 +167,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
