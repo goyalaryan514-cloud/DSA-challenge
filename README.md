@@ -36,6 +36,7 @@
 | [0037-sudoku-solver](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0056-merge-intervals) |
@@ -75,6 +76,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0125-valid-palindrome) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0155-min-stack) |
@@ -124,6 +127,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0152-maximum-product-subarray) |
@@ -305,6 +309,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0496-next-greater-element-i) |
