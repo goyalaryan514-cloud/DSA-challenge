@@ -243,6 +243,7 @@
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0282-expression-add-operators) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1922-count-good-numbers) |
 ## String Matching
@@ -362,4 +363,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
