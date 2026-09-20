@@ -234,6 +234,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -360,4 +361,5 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
