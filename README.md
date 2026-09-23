@@ -67,6 +67,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2104-sum-of-subarray-ranges) |
@@ -159,6 +160,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -176,6 +178,7 @@
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -304,6 +308,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Depth-First Search
 |  |
