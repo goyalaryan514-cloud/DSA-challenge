@@ -17,6 +17,5 @@ public:
         vector<string> res;
         backtrack(curr,0,0,n,res);
         return res;
-        
     }
 };
