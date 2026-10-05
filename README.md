@@ -126,6 +126,7 @@
 | [0496-next-greater-element-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -237,6 +238,7 @@
 | [0402-remove-k-digits](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +287,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
