@@ -253,6 +253,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0282-expression-add-operators) |
@@ -309,6 +310,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0136-single-number) |
