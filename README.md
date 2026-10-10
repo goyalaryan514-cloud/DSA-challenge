@@ -130,6 +130,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -200,6 +201,7 @@
 | [0402-remove-k-digits](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -241,6 +243,7 @@
 | [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -288,6 +291,7 @@
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
