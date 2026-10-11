@@ -71,6 +71,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
