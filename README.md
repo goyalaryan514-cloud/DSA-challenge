@@ -187,6 +187,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0904-fruit-into-baskets) |
@@ -251,6 +252,7 @@
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0856-score-of-parentheses) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
