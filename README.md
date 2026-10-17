@@ -181,6 +181,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0142-linked-list-cycle-ii) |
@@ -245,6 +246,7 @@
 | [0020-valid-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -336,6 +338,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
