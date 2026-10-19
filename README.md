@@ -68,6 +68,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -197,6 +198,7 @@
 | [0496-next-greater-element-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -228,6 +230,7 @@
 | [0410-split-array-largest-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -282,6 +285,7 @@
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0282-expression-add-operators) |
+| [1248-count-number-of-nice-subarrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1922-count-good-numbers) |
@@ -351,6 +355,7 @@
 | [0904-fruit-into-baskets](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
