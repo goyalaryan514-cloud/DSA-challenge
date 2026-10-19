@@ -75,6 +75,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -110,6 +111,7 @@
 | [0242-valid-anagram](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
