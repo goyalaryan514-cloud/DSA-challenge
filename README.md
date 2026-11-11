@@ -286,6 +286,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
