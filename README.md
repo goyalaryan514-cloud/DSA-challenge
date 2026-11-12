@@ -83,6 +83,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
