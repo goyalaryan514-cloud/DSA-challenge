@@ -285,6 +285,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
