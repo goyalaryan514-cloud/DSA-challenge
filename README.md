@@ -84,6 +84,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -303,6 +304,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1922-count-good-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String Matching
 |  |
@@ -380,6 +382,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -422,10 +425,12 @@
 | ------- |
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
