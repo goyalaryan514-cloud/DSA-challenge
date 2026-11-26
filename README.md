@@ -304,6 +304,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String Matching
@@ -458,6 +459,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/0735-asteroid-collision) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/goyalaryan514-cloud/DSA-challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
